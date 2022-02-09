@@ -1,0 +1,17 @@
+body 
+{
+  background-color: pink;
+  text-align: center;
+ 
+}
+h1 {
+    
+  background-color: lightgreen;
+  border-style: groove;
+  border-color: orange;
+  border-width: 20px;
+  padding: 10px;
+ border-radius: 10px;
+text-shadow: 2px 2px;
+}
+
